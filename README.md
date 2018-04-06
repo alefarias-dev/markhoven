@@ -36,7 +36,7 @@ Dessa forma, dado qualquer palavra do dicionário, uma função seleciona aleato
 Em geral os algoritmos ainda precisam de otimizações, mesmo assim podemos obter alguns resultados interessantes.
 
 Começamos por minerar músicas de Chico Buarqe:
-<code>
+```
 Sobrescrever arquivo de treino? (S/N)s
 Minerando musicas de: /chico-buarque
 Musica: A Aurora de Nova York copiada pelo sharingan sinfonico.
@@ -59,10 +59,10 @@ Musica: A Permuta Dos Santos copiada pelo sharingan sinfonico.
 Musica: A Pousada do Bom Barão copiada pelo sharingan sinfonico.
 Musica: A Rita copiada pelo sharingan sinfonico.
 Musica: A Rosa copiada pelo sharingan sinfonico.
-</code>
+```
 
 Finalmente executamos **markov.py**, as cadeias tem tamanho predefinido de 100 palavras/simbolos, e seu tamanho pode ser parametrizado facilmente:
-<code>
+```
 homem serio que e Imagina so O Ze do teatro 
 Dados juntos E um duo . Voce tambem vem ? 
 Cachorro : Sim , afinal , olha , o mar 
@@ -73,7 +73,7 @@ meio da banda passar Cantando coisas Tao puras Que bode
 , mas isso e Imagina so pruma noite escura Mas 
 escuta o chapeu Ser artista Na verdade a entrada Vai 
 ouvir e . Vou procurar emprego como star Me apareceu 
-</code>
+```
 
 
 
